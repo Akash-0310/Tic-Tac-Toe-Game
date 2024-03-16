@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Tic Tac Toe Game
 
 
 TIC-TAC-TOE, the game we played since childhood by not its time to create it my by own hands.😊
